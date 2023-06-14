@@ -1,2 +1,6 @@
 This is my first Test in File 1
+
 First line in feature3
+
+Second test line in feature2
+
