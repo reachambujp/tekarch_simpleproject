@@ -1,1 +1,2 @@
 This is my first Test in File 1
+Second test line in feature2
